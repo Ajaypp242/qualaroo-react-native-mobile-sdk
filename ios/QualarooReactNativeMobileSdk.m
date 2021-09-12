@@ -1,5 +1,5 @@
 #import "QualarooReactNativeMobileSdk.h"
-// @import Qualaroo;
+@import Qualaroo;
 @implementation QualarooReactNativeMobileSdk
 
 RCT_EXPORT_MODULE()
